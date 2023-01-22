@@ -1,0 +1,42 @@
+<h1 style="color:White">Is Race Real: A New Dimension. </h1>
+<h2 style="color:#502e08"> Danielle, Gavin, Sage, and Tariq: Orange Team.</h2>
+<img src=https://futurefocusededucation.org/wp-content/uploads/2021/09/SEL-Diversity-JPG-1.jpg>
+<h2>- Introduction</h2>
+<p>In our society, discrimination is widespread and sometimes unintentional. Being a black female in America, I often see harsh stereotypes and biases that sometimes are true. We often see people of color being in more urban areas and people who are Caucasians that are placed in more suburban areas. We as a society have set this standard between one another and often normalize the segregation amongst each other. Making race something that is socially and psychologically accurate and valid. I would see society as more diverse and equal if it wasn't. But because race is based upon our physical characteristics, it is hard to ignore how it affects us socially and psychologically.</p>
+<h2> - Character: Sheryl and Karen.</h2>
+<p> Sheryl is a black woman in America who advocates and identifies the rights of people of color, using time travel. As she travels to these different voyages and time periods around the world, she explains and expresses why race is real and progresses throughout the years. Karen is a white woman in America who advocates for “equality” amongst all racial groups and firmly believes that there is no discrimination amongst other racial groups because the lives of all colors matter. 
+<h2> - Background Design Set-Up</h2>
+<p> A black woman, Sheryl, introduces herself in a modern time zone to her target audience. She explains how race is real, familiar, and socially impactful to different racial communities. She travels from slavery to the modern world to illustrate how racism is still accurate but changes throughout the years. However, throughout her journey, a “Karen” interferes with her stories as she voices her own concerns on how racism no longer exists because the right of black people has become more fluent and open. Who would you side with? Why do these characters have different perspectives? 
+<h2> - Code and Technology: Stop Motion Animation. </h2>
+<p> The technology that was used was stop motion animation, an animated filmmaking technique in which objects are physically manipulated in small increments between individually photographed frames so that they will appear to exhibit independent motion or change when the series of frames is played back. After illustrating, cutting, and designing all of the components for our animation, we would use the provided camera in class and the computer software to join these images together and make them look as one long and sequenced film. </p>
+<h2> - Cause and Effect Model </h2>
+<p> 1. Social media plays a major part in stereotypes as it is often used to persuade or appeal to an audience. When certain communities are portrayed in a certain light in the media, it creates this stereotype within a community. </p>
+<p> 2. Your environment plays a major part in how we perceive communities. The way you are raised and the environment you grew up in can sometimes dictate how you feel about cultures, political stances, and sometimes other communities. </P>
+<p> 3. Your surroundings have a significant impact on how we see communities. How you were raised and the setting in which you grew up can sometimes influence how you feel about cultures, political positions, and other communities. </p>
+
+
+<h2> - StoryBoard Animation <h2>
+  
+ <p> To see our images of our storyboard animation, please analyze the following link: 
+<p>//drive.google.com/file/d/1h2xT7fMhi5C-76MdbhIjmF_oV-Vb9OD6/view?usp=sharing <p>
+  <p> Click on the bottom link to analyze our cause and effect model: </p>
+  <p>https://docs.google.com/document/d/1w84Zad1hVcFvqPvzF
+    HMmSOn8OTz8QBggI6zVnCOcOo_I/edit </p>
+  <img src=https://cc-prod.scene7.com/is/image/CCProdAuthor/marquee-900x420-1?$pjpeg$&jpegSize=200&wid=900 >
+  body {
+  background-color: #7b4b16;
+    margin: auto;
+  max-width: 600px; 
+  padding: 50px; 
+  
+ }
+p {font-size:20px;}
+  img {
+  display: block;
+   margin: auto;
+  width: 500px; 
+  padding: 50px;  
+}
+p, h2 {
+  color: white;
+}
