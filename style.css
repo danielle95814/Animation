@@ -1,0 +1,17 @@
+ body {
+  background-color: #7b4b16;
+    margin: auto;
+  max-width: 600px; 
+  padding: 50px; 
+  
+ }
+p {font-size:20px;}
+  img {
+  display: block;
+   margin: auto;
+  width: 500px; 
+  padding: 50px;  
+}
+p, h2 {
+  color: white;
+}
